@@ -1,0 +1,28 @@
+Votre personnage fait-il de la politique ?
+Votre personnage est-il un homme (sexe)?
+Votre personnage est-il enseignant ?
+Votre personnage est-il un acteur ?
+Votre personnage est-il blond ?
+Votre personnage est-il fictif ?
+Votre personnage a-t-il eu une marionnette aux guignols de l’info ?
+Votre personnage est_il un ecrivain ?
+Votre personnage est_il un sportif pro ?
+Votre personnage est_il un chanteur pro ?
+Votre personnage est_il un peintre pro?
+Votre personnage est_il un danseur pro ?
+Votre personnage est_il un animateur ?
+Votre personnage est_il un animal ?
+Votre personnage est_il un chien ?
+votre personnage porte_il un masque ?
+votre personnage est_il celebre ?
+votre personnage a t_il ete marie ?
+votre personnage a t_il des enfants ?
+votre personnage est_il riche ?
+votre personnage a_t_il un prix nobel?
+votre personnage est_il un voyageur ?
+votre personnage est_il diplome ?
+votre personnage est un personnage historique?
+votre personnage est un mechant dans un film ?
+votre personnage est t-il un super hero ?
+votre personnage est il gros ?
+votre personnage est il dans un dessin anime ?
